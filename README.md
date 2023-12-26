@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm ... from .... Jabalpur<br><br>- 🔭 I’m working as ...DevOps Engineer<br>- 📚 I'm currently learning ...Python</p>
+<p align="left">I'm  Priyansh born in Jabalpur <br><br>- 🔭 I’m an aspiring DevOps engineer✨<br>- 📚 I'm currently learning ...Kubernetes</p>
 
 ###
 
