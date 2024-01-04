@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm  Priyansh born in Jabalpur <br><br>- 🔭 I’m an aspiring DevOps engineer✨<br>- 📚 I'm currently learning ...Kubernetes</p>
+<p align="left">I'm  Priyansh  <br><br>- 🔭 I’m an aspiring DevOps engineer✨<br>- 📚 I'm currently learning ...Kubernetes</p>
 
 ###
 
